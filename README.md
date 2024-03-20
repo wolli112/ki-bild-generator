@@ -10,3 +10,5 @@ Geeignet ist hier ganz gut ein RspberryPi 400. Aber auch jeder andere Raspberry 
 Verwendet wird die API von OpenAI mit DALL-E-3.
 
 ### Zum Betrieb wird ein OpenAI APi Key und eine gültige SMTP E-Mail Adresse benötigt.
+
+In dem Pfad in dem die emaildata.py, openapikey.py und gpt_bild.py liegen muss der Ordner "save" angelegt werden!
