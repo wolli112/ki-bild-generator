@@ -17,4 +17,4 @@ In dem Pfad in dem die emaildata.py, openapikey.py und gpt_bild.py liegen muss d
 
 
 
-Das Vollbildprogramm kann Beendet werden in dem man in die Promptzeile "Beende die Anwendung" einträgt und auf "Generieren" klickt ;-)
+Das Vollbildprogramm kann Beendet werden in dem man in die Promptzeile "Beende die Anwendung" einträgt und auf "Generieren" klickt ...
