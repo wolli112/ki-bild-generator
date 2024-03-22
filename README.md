@@ -1,5 +1,5 @@
 # KI-Bild-Generator im Vollbildmodus
-Es können KI Generierte Bilder angezeigt und anschließend per E-Mail versendet werden.
+Mit diesem Skript können KI Generierte Bilder angezeigt und anschließend per E-Mail versendet werden.
 
 Die Bilder werden in 600x600 Pixel angezeigt.
 
