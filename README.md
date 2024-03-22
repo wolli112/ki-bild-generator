@@ -12,3 +12,9 @@ Verwendet wird die API von OpenAI mit DALL-E-3.
 ### Zum Betrieb wird ein OpenAI APi Key und eine gültige SMTP E-Mail Adresse benötigt.
 
 In dem Pfad in dem die emaildata.py, openapikey.py und gpt_bild.py liegen muss der Ordner "save" angelegt werden!
+
+
+
+
+
+Das Vollbildprogramm kann Beendet werden in dem man in die Promptzeile "Beende die Anwendung" einträgt und auf "Generieren" klickt ;-)
