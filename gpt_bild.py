@@ -160,7 +160,7 @@ root.wm_attributes("-fullscreen","true") # Fenster im Vollbild
 #root.overrideredirect(1) # Entfernen der Menüleiste bei Bedarf
 root.update()
 
-# Testfeld mit Programmbeschriftung
+# Textfeld mit Programmbeschriftung
 program_text = tk.Label(root, font=("Arial", 40, "bold"), text="KI-Bild-Generator mit DALL-E-3 von wolli112", bg="white")
 program_text.grid(row=1, column=2, columnspan=5, pady=10)
 
